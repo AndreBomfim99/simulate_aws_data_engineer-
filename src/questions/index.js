@@ -106,6 +106,7 @@ const allQuestions = [
   question47,
   question48,
   question49,
+  question50,
 
 
   // Add new questions here ↓
