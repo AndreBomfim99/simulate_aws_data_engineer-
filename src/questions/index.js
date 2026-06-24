@@ -35,6 +35,26 @@ import question27 from './question27'
 import question28 from './question28'
 import question29 from './question29'
 import question30 from './question30'
+import question31 from './question31'
+import question32 from './question32'
+import question33 from './question33'
+import question34 from './question34'
+import question35 from './question35'
+import question36 from './question36'
+import question37 from './question37'
+import question38 from './question38'
+import question39 from './question39'
+import question40 from './question40'
+import question41 from './question41'
+import question42 from './question42'
+import question43 from './question43'
+import question44 from './question44'
+import question45 from './question45'
+import question46 from './question46'
+import question47 from './question47'
+import question48 from './question48'
+import question49 from './question49'
+import question50 from './question50'
 
 const allQuestions = [
   question01,
@@ -67,6 +87,28 @@ const allQuestions = [
   question28,
   question29,
   question30,
+  question31,
+  question32,
+  question33,
+  question34,
+  question35,
+  question36,
+  question37,
+  question38,
+  question39,
+  question40,
+  question41,
+  question42,
+  question43,
+  question44,
+  question45,
+  question46,
+  question47,
+  question48,
+  question49,
+  question50,
+
+
   // Add new questions here ↓
 ]
 
