@@ -54,6 +54,12 @@ import question46 from './question46'
 import question47 from './question47'
 import question48 from './question48'
 import question49 from './question49'
+import question50 from './question50'
+import question51 from './question51'
+import question52 from './question52'
+import question53 from './question53'
+import question54 from './question54'
+import question55 from './question55'
 
 
 const allQuestions = [
@@ -106,6 +112,12 @@ const allQuestions = [
   question47,
   question48,
   question49,
+  question50,
+  question51,
+  question52,
+  question53,
+  question54,
+  question55,
  
 
 
