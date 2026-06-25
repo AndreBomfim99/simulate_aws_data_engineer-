@@ -1,4 +1,4 @@
-//https://www.youtube.com/watch?v=s2DzF8avQnY
+console.log('Esta é a questão 50');
 
-//parei no 31:03 indo para a questao 20
 
+export default question50

@@ -54,7 +54,7 @@ import question46 from './question46'
 import question47 from './question47'
 import question48 from './question48'
 import question49 from './question49'
-import question50 from './question50'
+
 
 const allQuestions = [
   question01,
@@ -106,7 +106,7 @@ const allQuestions = [
   question47,
   question48,
   question49,
-  question50,
+ 
 
 
   // Add new questions here ↓
