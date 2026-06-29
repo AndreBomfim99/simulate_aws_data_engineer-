@@ -1,0 +1,16 @@
+Knowledge of — você precisa entender
+O objetivo é construir o conceito na cabeça. As perguntas são:
+
+O que é isso? — definição simples com suas palavras
+Como funciona? — mecanismo básico por baixo
+Quais são as características principais? — números, limites, comportamentos relevantes
+Como se diferencia dos similares? — o que faz esse ser diferente dos outros
+
+
+🛠️ Skills in — você precisa saber escolher/fazer
+O objetivo é treinar o raciocínio de decisão. As perguntas são:
+
+Que problema isso resolve? — caso de uso principal
+Quais palavras-chave no enunciado me levam a isso? — gatilhos de identificação
+Por que não usaria o serviço X no lugar? — eliminar distratores
+Qual seria um cenário típico de prova sobre isso? — montar o cenário você mesmo
